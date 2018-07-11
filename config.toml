@@ -1,7 +1,7 @@
 # Hugo variables
 #
-baseurl = "https://bumblebeast.co/"
-BaseURL = "https://bumblebeast.co/"
+baseurl = "https://vigilant-hermann-278af5.netlify.com/"
+
 languageCode = "en-us"
 title = "BumbleBeast Blog"
 theme = "bootstrap"
