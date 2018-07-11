@@ -1,6 +1,7 @@
 # Hugo variables
 #
 baseurl = "https://bumblebeast.co/"
+BaseURL = "https://bumblebeast.co/"
 languageCode = "en-us"
 title = "BumbleBeast Blog"
 theme = "bootstrap"
