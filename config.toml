@@ -1,7 +1,7 @@
 # Hugo variables
 #
-baseurl = "https://vigilant-hermann-278af5.netlify.com/"
-
+baseurl = "https://www.bumblebeast.co/blog/"
+Copyright="© 2018 FN-X Inc."
 languageCode = "en-us"
 title = "BumbleBeast Blog"
 theme = "bootstrap"
@@ -10,19 +10,19 @@ paginate = 5
 # optionally override the site's footer with custom copyright text
 # copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
 #googleAnalytics = "UA-107303483-1"
-disqusShortname = "bumblebeast"
+#disqusShortname = "bumblebeast"
 
 [permalinks]
   post = "/:year/:month/:title/"
   page = "/:slug/"
 
 [[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
+  name = "Home Page"
+  url = "https://bumblebeast.co"
 
 [[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
+  name = "Forum"
+  url = "https://community.bumblebeast.co"
 
 #[[menu.navbar]]
 #  name = "Link 1"
@@ -61,7 +61,7 @@ disqusShortname = "bumblebeast"
   [params.sidebar]
 
     # How many posts to show on the sidebar (Default: 5)
-  num_recent_posts = 2
+    # num_recent_posts = 2
 
 
 # Default content language for Hugo 0.17's multilingual support (default is "en")
